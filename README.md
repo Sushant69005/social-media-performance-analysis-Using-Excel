@@ -8,74 +8,70 @@ The project demonstrates how Excel can be used as a Business Intelligence tool b
 
 The goal of this project is to:
 
-Analyze social media performance across platforms
-Measure audience engagement
-Compare country-wise performance
-Identify the best posting time
-Monitor monthly trends
-Evaluate customer sentiment
+Analyze social media performance across platforms,
+Measure audience engagement,
+Compare country-wise performance,
+Identify the best posting time,
+Monitor monthly trends,
+Evaluate customer sentiment,
 Provide business recommendations through an MIS report
 
 🛠 Tools Used & Purpose
 
-Microsoft Excel -	Dashboard Development
-Power Query	Data - Cleaning & Transformation
-Pivot Tables -	Data Aggregation
-Pivot Charts -	Visualization
-Slicers -	Interactive Filtering
-Conditional Formatting -	KPI Indicators
+Microsoft Excel -	Dashboard Development,
+Power Query	Data - Cleaning & Transformation,
+Pivot Tables -	Data Aggregation,
+Pivot Charts -	Visualization,
+Slicers -	Interactive Filtering,
+Conditional Formatting -	KPI Indicators,
 Map Chart -	Country Analysis
 
 📂 Dataset Information
 The dataset contains social media performance records including:
-Platform
-Country
-Post Date
-Month
-Views
-Engagement
-Engagement Rate
-Sentiment Score
-Viral Posts
+Platform,
+Country,
+Post Date,
+Month,
+Views,
+Engagement,
+Engagement Rate,
+Sentiment Score,
+Viral Posts,
 Time of Day
 
 📈 Dashboard Features
 
 The dashboard contains:
-KPI Cards
-Total Posts
-Total Views
-Total Engagement
-Average Engagement Rate
-Viral Posts
+KPI Cards,
+Total Posts,
+Total Views,
+Total Engagement,
+Average Engagement Rate,
+Viral Posts,
 Average Sentiment Score
 
 Interactive Charts
 
-Total Engagement by Platform
-Total Engagement by Country (Map)
-Monthly Total Views Trend
+Total Engagement by Platform,
+Total Engagement by Country (Map),
+Monthly Total Views Trend,
 Engagement by Time of Day
 
 Interactive Filters
 
-Country
-Month
+Country,
+Month,
 Platform
 
 📑 MIS Report
 
 The project also includes a professional MIS Report containing:
-Executive Summary
-KPI Summary
-Platform Performance Analysis
-Country-wise Analysis
-Monthly Trend Analysis
-Time-of-Day Analysis
-Key Findings
-Business Recommendations
-Management Conclusion
-Appendix (Tools & Techniques)
+Executive Summary,
+KPI Summary,
+Platform Performance Analysis,
+Country-wise Analysis,
+Monthly Trend Analysis,
+Time-of-Day Analysis,
 
 📊 Key Insights
 More than 2 Billion total views were recorded.
