@@ -97,7 +97,7 @@ Dashboard
 ![Interactive Dashboard](Images/Screenshot%202026-06-12%20131133.png)
 
 MIS Report
-
+https://github.com/Sushant69005/social-media-performance-analysis-Using-Excel/blob/main/Images/Screenshot%202026-06-23%20171323.png
 📁 Project Structure
 Social-Media-Performance-Analysis
 │
